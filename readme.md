@@ -33,7 +33,7 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 
 ### Multiplayer
 ![Multiplayer Screenshots 1](https://imgur.com/0SRsa9z.jpg)
-![Multiplayer Screenshots 2](https://imgur.com/ejdnfyK.jpg)
+![Multiplayer Screenshots 2](https://imgur.com/75uDTvE.jpg)
 
 ### Rock, Paper, and Scissor (to decide which player get the first turn)
 ![RPS Screenshots](https://imgur.com/4ozpWg7.jpg)
