@@ -27,7 +27,10 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 
 ## Screenshots
 # Main Menu
-https://imgur.com/a/zHfTe7Y
+![Main Menu Screenshots](https://imgur.com/a/zHfTe7Y)]
+
+# Multiplayer
+![Multiplayer Screenshots](https://imgur.com/0SRsa9z)
 
 # Gameplay
 
@@ -38,8 +41,6 @@ https://imgur.com/a/zHfTe7Y
 # Snake Slide
 
 # Winner Screen
-
-# Multiplayer
 
 ## License
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
