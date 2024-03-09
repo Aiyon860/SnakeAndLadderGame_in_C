@@ -153,8 +153,6 @@ void selecting_player_menu()
 
         if (countPlayers == 2)
         {
-            countPlayers = 0;   // setting back to default
-
             int startOrExit;
 
             while (true)
@@ -272,8 +270,6 @@ void show_player_list()
 
     for (uint8_t i = 0; i < LIST_NAME_LEN; i++)
     {
-        if (playerList[i].position > 100)
-            playerList[i].position = 100;   // in order to not overflow
         printf("Player %d: %s, Position: %d\n", playerList[i].number, playerList[i].name, playerList[i].position);
     }
 
@@ -464,6 +460,8 @@ void show_winner()
         printf("Player %d: %s Wins!\n", playerList[0].number, playerList[0].name);
     else 
         printf("Player %d: %s Wins\n", playerList[1].number, playerList[1].name);
+    
+    countPlayers = 0;   // setting back to default
 }
 
 // determine which player got the first turn
@@ -472,7 +470,7 @@ uint8_t rock_paper_scissor()
     char* listElements[3] = {"Rock", "Paper", "Scissor"};
     char* playerOne = (char*) malloc(sizeof(char) * RPS_ELEMENT_LEN);
     char* playerTwo = (char*) malloc(sizeof(char) * RPS_ELEMENT_LEN);
-    uint8_t retVal;
+    uint8_t retVal = 0;
 
     system("cls");
     printf("Important Info: We Have to Determine Which Player Get The First Turn!\n");
@@ -517,6 +515,8 @@ uint8_t rock_paper_scissor()
             printf("Player 2 wins! %s beats %s\n", playerTwo, playerOne);
             retVal = 2;
         }
+
+        break;
     }
 
     free(playerOne);
