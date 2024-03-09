@@ -60,4 +60,4 @@ This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICE
 I'm sorry, but at this time, I am not open to contributions.
 
 ## Contact
-If you have any questions, feedback, or suggestions, feel free to reach out to me at danieladipratama@gmail.com.
+If you have any questions, feedback, or suggestions, feel free to reach out to me at danieladipratama860@gmail.com.
