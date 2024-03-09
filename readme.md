@@ -26,7 +26,7 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 - Psapi.lib (for memory usage tacking)
 
 ## Screenshots (Link to all Screenshots: [All Screenshots](https://imgur.com/a/zHfTe7Y))
-# Main Menu
+### Main Menu
 ![Main Menu Screenshots](https://imgur.com/7Ik5MNV.jpg)
 
 ### Multiplayer
