@@ -52,7 +52,7 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 
 ### Winner Screen
 ![Winner Screen Screenshots](https://imgur.com/9pbxs05.jpg)
-- Note: I am sorry Tirza but my random algorithm is on my side this time :sob:
+- Please note: I regret to inform you, Tirza, that my random algorithm is favoring me this time. :sob:
 
 ## Contributing
 I'm sorry, but at this time, I am not open to contributions.
