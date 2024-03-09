@@ -11,18 +11,26 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 - Supports multiple players (2 players max)
 - Displays the winner when a player reaches the end of the board
 
-## Usage
-1. Clone the Repository:
+## Quick Start
+1. **Clone the Repository:**
 `git clone https://github.com/Aiyon860/SnakeAndLadderGame_in_C.git`
-2. Compile the Program (build is only compile, run is compile and run):
-    - `make build TARGET=main`
-    - `make run TARGET=main`
-3. Clean the Executable
-`make clean`
-4. Follow the prompts to play the game.
+2. **Compile the Program:**
+    You have two options for compilling the program:
+    - **Build Only:**
+        `make build TARGET=main`
+    - **Build and Run:**
+        `make run TARGET=main`
+3. **Clean Up:**
+    - `make clean`
+4. **Play the Game:**
+    Follow the prompts to play the game
+
+## Dependencies
+- GCC (GNU Compiler Collection)
+- Psapi.lib (for memory usage tacking)
 
 ## Screenshots
-
+WIP (Work in Progress)
 
 ## License
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
