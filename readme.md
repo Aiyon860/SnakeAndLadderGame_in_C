@@ -1,4 +1,5 @@
-:snake: :ladder: # Snake and Ladder Game
+:snake: :ladder: 
+# Snake and Ladder Game
 This is a simple Snake and Ladder game program written in C.
 
 ## Description
