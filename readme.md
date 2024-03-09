@@ -15,8 +15,8 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 1. **Clone the Repository:** `git clone https://github.com/Aiyon860/SnakeAndLadderGame_in_C.git`
 2. **Compile the Program:**
     You have two options for compilling the program:
-    - **Build Only:** `make build TARGET=main`
-    - **Build and Run:** `make run TARGET=main`
+    - **Build Only:** `make build TARGET=snake_and_ladder`
+    - **Build and Run:** `make run TARGET=snake_and_ladder`
 3. **Clean Up:** If needed, you can clean up the generated executable file: `make clean`
 5. **Play the Game:**
     Follow the prompts to play the game
