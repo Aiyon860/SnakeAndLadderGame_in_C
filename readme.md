@@ -25,22 +25,32 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 - GCC (GNU Compiler Collection)
 - Psapi.lib (for memory usage tacking)
 
-## Screenshots
+## Screenshots (Link to all Screenshots: ![All Screenshots](https://imgur.com/a/zHfTe7Y)
 # Main Menu
-![Main Menu Screenshots](https://imgur.com/a/zHfTe7Y)]
+![Main Menu Screenshots](https://imgur.com/7Ik5MNV)
 
 # Multiplayer
-![Multiplayer Screenshots](https://imgur.com/0SRsa9z)
+![Multiplayer Screenshots 1](https://imgur.com/0SRsa9z)
+![Multiplayer Screenshots 2](https://imgur.com/ejdnfyK)
 
-# Gameplay
+# Rock, Paper, and Scissor (to decide which player get the first turn)
+![RPS Screenshots](https://imgur.com/4ozpWg7)
 
 # Starting Position
+![Starting Position Screenshots 1](https://imgur.com/ppWUELb)
+![Starting Position Screenshots 2](https://imgur.com/hANNsJ4)
+
+# Gameplay
+![Gameplay Screenshots](https://imgur.com/Vvrkk41)
 
 # Ladder Climb
+![Ladder Climb Screenshots](https://imgur.com/ttwrnVC)
 
 # Snake Slide
+![Snake Slide Screenshots](https://imgur.com/N4JNRHS)
 
 # Winner Screen
+![Winner Screen Screenshots]()
 
 ## License
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
