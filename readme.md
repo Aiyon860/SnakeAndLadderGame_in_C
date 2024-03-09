@@ -27,30 +27,30 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 
 ## Screenshots (Link to all Screenshots: [All Screenshots](https://imgur.com/a/zHfTe7Y))
 # Main Menu
-![Main Menu Screenshots](https://imgur.com/7Ik5MNV)
+![Main Menu Screenshots](https://imgur.com/7Ik5MNV.jpg)
 
 # Multiplayer
-![Multiplayer Screenshots 1](https://imgur.com/0SRsa9z)
-![Multiplayer Screenshots 2](https://imgur.com/ejdnfyK)
+![Multiplayer Screenshots 1](https://imgur.com/0SRsa9z.jpg)
+![Multiplayer Screenshots 2](https://imgur.com/ejdnfyK.jpg)
 
 # Rock, Paper, and Scissor (to decide which player get the first turn)
-![RPS Screenshots](https://imgur.com/4ozpWg7)
+![RPS Screenshots](https://imgur.com/4ozpWg7.jpg)
 
 # Starting Position
-![Starting Position Screenshots 1](https://imgur.com/ppWUELb)
-![Starting Position Screenshots 2](https://imgur.com/hANNsJ4)
+![Starting Position Screenshots 1](https://imgur.com/ppWUELb.jpg)
+![Starting Position Screenshots 2](https://imgur.com/hANNsJ4.jpg)
 
 # Gameplay
-![Gameplay Screenshots](https://imgur.com/Vvrkk41)
+![Gameplay Screenshots](https://imgur.com/Vvrkk41.jpg)
 
 # Ladder Climb
-![Ladder Climb Screenshots](https://imgur.com/ttwrnVC)
+![Ladder Climb Screenshots](https://imgur.com/ttwrnVC.jpg)
 
 # Snake Slide
-![Snake Slide Screenshots](https://imgur.com/N4JNRHS)
+![Snake Slide Screenshots](https://imgur.com/N4JNRHS.jpg)
 
 # Winner Screen
-![Winner Screen Screenshots](https://imgur.com/9pbxs05)
+![Winner Screen Screenshots](https://imgur.com/9pbxs05.jpg)
 - Note: I am sorry Tirza but my random algorithm is on my side this time :sob:
 
 ## License
