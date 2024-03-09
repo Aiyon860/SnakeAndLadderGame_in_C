@@ -12,25 +12,50 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 - Displays the winner when a player reaches the end of the board
 
 ## Quick Start
-1. **Clone the Repository:**
-`git clone https://github.com/Aiyon860/SnakeAndLadderGame_in_C.git`
+1. **Clone the Repository:** `git clone https://github.com/Aiyon860/SnakeAndLadderGame_in_C.git`
 2. **Compile the Program:**
     You have two options for compilling the program:
-    - **Build Only:**
-        `make build TARGET=main`
-    - **Build and Run:**
-        `make run TARGET=main`
-3. **Clean Up:**
-    - `make clean`
-4. **Play the Game:**
+    - **Build Only:** `make build TARGET=snake_and_ladder`
+    - **Build and Run:** `make run TARGET=snake_and_ladder`
+3. **Clean Up:** If needed, you can clean up the generated executable file: `make clean`
+5. **Play the Game:**
     Follow the prompts to play the game
 
 ## Dependencies
 - GCC (GNU Compiler Collection)
 - Psapi.lib (for memory usage tacking)
 
-## Screenshots
-WIP (Work in Progress)
+## Screenshots (Link to all Screenshots: [All Screenshots](https://imgur.com/a/zHfTe7Y))
 
-## License
-This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
+### Main Menu
+![Main Menu Screenshots](https://imgur.com/7Ik5MNV.jpg)
+
+### Multiplayer
+![Multiplayer Screenshots 1](https://imgur.com/0SRsa9z.jpg)
+![Multiplayer Screenshots 2](https://imgur.com/ejdnfyK.jpg)
+
+### Rock, Paper, and Scissor (to decide which player get the first turn)
+![RPS Screenshots](https://imgur.com/4ozpWg7.jpg)
+
+### Starting Position
+![Starting Position Screenshots 1](https://imgur.com/ppWUELb.jpg)
+![Starting Position Screenshots 2](https://imgur.com/hANNsJ4.jpg)
+
+### Gameplay
+![Gameplay Screenshots](https://imgur.com/Vvrkk41.jpg)
+
+### Ladder Climb
+![Ladder Climb Screenshots](https://imgur.com/ttwrnVC.jpg)
+
+### Snake Slide
+![Snake Slide Screenshots](https://imgur.com/N4JNRHS.jpg)
+
+### Winner Screen
+![Winner Screen Screenshots](https://imgur.com/9pbxs05.jpg)
+- Please note: I regret to inform you, Tirza, that my random algorithm is favoring me this time. :sob:
+
+## Contributing
+At this time, I regret to inform you that I am not open to contributions for this project. The project has been completed, and I anticipate that I will rarely visit this repository in the future.
+
+## Contact
+If you have any questions, feedback, or suggestions, feel free to reach out to me at danieladipratama860@gmail.com.
