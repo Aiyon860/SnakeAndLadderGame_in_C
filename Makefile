@@ -11,4 +11,4 @@ run: $(TARGET)
 	./$(TARGET)
 
 clean:
-	del $(TARGET).exe
+	del snake_and_ladder.exe

@@ -51,7 +51,7 @@ bool is_snake_block(uint8_t* position);
 void is_ladder_or_snake(uint8_t playerNumber);
 void show_winner();
 
-// Helper Functinos Declarations
+// Helper Functions Declarations
 bool isEmpty();
 bool isFull();
 
