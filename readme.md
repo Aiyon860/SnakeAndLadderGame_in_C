@@ -55,7 +55,7 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 - Please note: I regret to inform you, Tirza, that my random algorithm is favoring me this time. :sob:
 
 ## Contributing
-I'm sorry, but at this time, I am not open to contributions. Because this small project has been done and i will rarely visit this repo.
+At this time, I regret to inform you that I am not open to contributions for this project. The project has been completed, and I anticipate that I will rarely visit this repository in the future.
 
 ## Contact
 If you have any questions, feedback, or suggestions, feel free to reach out to me at danieladipratama860@gmail.com.
