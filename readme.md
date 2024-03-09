@@ -21,8 +21,9 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
     - **Build and Run:**
         `make run TARGET=main`
 3. **Clean Up:**
+    If needed, you can clean up the generated executable file:
     - `make clean`
-4. **Play the Game:**
+5. **Play the Game:**
     Follow the prompts to play the game
 
 ## Dependencies
@@ -31,6 +32,9 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 
 ## Screenshots
 WIP (Work in Progress)
+
+## Contributing
+I'm sorry, but at this time, I am not open to contributions.
 
 ## License
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
