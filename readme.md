@@ -25,7 +25,7 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 - GCC (GNU Compiler Collection)
 - Psapi.lib (for memory usage tacking)
 
-## Screenshots (Link to all Screenshots: ![All Screenshots](https://imgur.com/a/zHfTe7Y)
+## Screenshots (Link to all Screenshots: [All Screenshots](https://imgur.com/a/zHfTe7Y))
 # Main Menu
 ![Main Menu Screenshots](https://imgur.com/7Ik5MNV)
 
@@ -50,7 +50,8 @@ The Snake and Ladder game is a classic board game where players roll dice and mo
 ![Snake Slide Screenshots](https://imgur.com/N4JNRHS)
 
 # Winner Screen
-![Winner Screen Screenshots]()
+![Winner Screen Screenshots](https://imgur.com/9pbxs05)
+- Note: I am sorry Tirza but my random algorithm is on my side this time :sob:
 
 ## License
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
